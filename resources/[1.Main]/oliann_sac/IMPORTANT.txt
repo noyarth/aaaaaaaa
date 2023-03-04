@@ -1,0 +1,9 @@
+A METTRE DANS VOTRE OX_INVENTORY
+
+['bag'] = {
+        label = 'Sac',
+        weight = 0,
+        stack = false,
+        close = true,
+        description = 'YO'
+},
